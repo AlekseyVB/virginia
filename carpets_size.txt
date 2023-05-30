@@ -1,0 +1,5 @@
+carpet0 60*90
+carpet1 85*150
+carpet2 115*200
+carpet3 150*300
+carpet4 115*400
